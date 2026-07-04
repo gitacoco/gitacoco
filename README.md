@@ -1,6 +1,12 @@
 Designer and builder based in San Jose. My work sits around interaction design, AI-assisted tools, creative technology, and practical systems that turn messy questions into something people can use.
 
-## What I'm working on
+Currently focusing:
+- Designing useful AI-native workflows
+- Building agentic design systems
+- Shipping web products from concept to working prototype
+- Exploring interaction, information design, and creative systems
+
+A few things I’ve built while vibe coding:
 
 | Project | What it does | Stack |
 | --- | --- | --- |
@@ -9,12 +15,7 @@ Designer and builder based in San Jose. My work sits around interaction design, 
 | [PULSE](https://github.com/gitacoco/PULSE) | Interactive web project and design experiment. | HTML |
 | [P.Dayseed](https://github.com/gitacoco/P.Dayseed) | Product and interface exploration. | TypeScript |
 
-## Current focus
 
-- Designing useful AI-native workflows
-- Building web products from concept to working prototype
-- Exploring interaction, information design, and creative systems
-- Turning research and experiments into clear product experiences
 
 ## Connect
 
