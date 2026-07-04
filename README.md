@@ -1,4 +1,4 @@
-Designer and builder based in San Jose. My work sits around interaction design, AI-assisted tools, creative technology, and practical systems that turn messy questions into something people can use.
+Designer and builder based in San Jose. My work sits around UX design, AI-assisted tools, agentic systems, and information visualizations that turn messy questions into something people can use.
 
 Currently focusing:
 - Designing useful AI-native workflows
