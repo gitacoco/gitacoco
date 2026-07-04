@@ -17,11 +17,7 @@ A few things I’ve built while vibe coding:
 
 
 
-## Connect
 
-- Website: [zhibang.design](https://zhibang.design)
-- GitHub: [@gitacoco](https://github.com/gitacoco)
-- Email: [zhibang.jiang@gmail.com](mailto:zhibang.jiang@gmail.com)
 
 <!--
 Optional GitHub stats. Uncomment these if you want a more metrics-heavy profile.
