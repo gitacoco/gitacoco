@@ -8,12 +8,10 @@ Currently focusing:
 
 A few things I’ve built while vibe coding:
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [Allocast](https://github.com/gitacoco/Allocast) | Static ETF dollar-cost-averaging backtest app. | Python |
-| [thesis-project](https://github.com/gitacoco/thesis-project) | Major Studio 2 and thesis project work. | Design research |
-| [PULSE](https://github.com/gitacoco/PULSE) | Interactive web project and design experiment. | HTML |
-| [P.Dayseed](https://github.com/gitacoco/P.Dayseed) | Product and interface exploration. | TypeScript |
+| Emoji | Tool name | What it does | Repo link |
+| --- | --- | --- | --- |
+| 📈 | Allocast | Static ETF dollar-cost-averaging backtest app. | [Repo](https://github.com/gitacoco/Allocast) |
+| 🫀 | PULSE | Interactive web project and design experiment. | [Repo](https://github.com/gitacoco/PULSE) |
 
 
 
