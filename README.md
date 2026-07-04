@@ -20,15 +20,15 @@ A few things I’ve built while vibe coding:
   <tbody>
     <tr>
       <td width="40">📈</td>
-      <td width="150"><a href="https://github.com/gitacoco/Allocast"><strong>Allocast</strong></a></td>
+      <td width="150"><a href="https://allocast.vercel.app/"><strong>Allocast</strong></a></td>
       <td width="100%">Backtests ETF dollar-cost-averaging strategies in a static local app.</td>
-      <td width="80"><a href="https://github.com/gitacoco/Allocast">GitHub</a></td>
+      <td width="80"><a href="https://github.com/gitacoco/Allocast">Repo</a></td>
     </tr>
     <tr>
       <td width="40">✈️</td>
-      <td width="150"><a href="https://github.com/gitacoco/PULSE"><strong>PULSE</strong></a></td>
+      <td width="150"><strong>PULSE</strong></td>
       <td width="100%">Polls Seats.aero for flight award availability, tracks changes, and sends email alerts when better results appear.</td>
-      <td width="80"><a href="https://github.com/gitacoco/PULSE">GitHub</a></td>
+      <td width="80"><a href="https://github.com/gitacoco/PULSE">Repo</a></td>
     </tr>
   </tbody>
 </table>
