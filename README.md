@@ -30,6 +30,12 @@ A few things I’ve built while vibe coding:
       <td width="100%">Polls Seats.aero for flight award availability, tracks changes, and sends email alerts when better results appear.</td>
       <td width="80"><a href="https://github.com/gitacoco/PULSE">Repo</a></td>
     </tr>
+    <tr>
+      <td width="40">🧾</td>
+      <td width="150"><strong>Invoicer</strong></td>
+      <td width="100%">Builds consulting invoices locally with client profiles, live preview, PDF export, Toggl import, and AI-assisted line-item rewriting.</td>
+      <td width="80"><a href="https://github.com/gitacoco/invoicer">Repo</a></td>
+    </tr>
   </tbody>
 </table>
 
