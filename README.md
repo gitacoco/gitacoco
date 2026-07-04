@@ -9,6 +9,14 @@ Currently focusing:
 A few things I’ve built while vibe coding:
 
 <table width="100%">
+  <thead>
+    <tr>
+      <th width="40"></th>
+      <th width="150"></th>
+      <th width="100%">What it does</th>
+      <th width="80"></th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
       <td width="40">📈</td>
