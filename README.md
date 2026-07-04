@@ -27,7 +27,7 @@ A few things I’ve built while vibe coding:
     <tr>
       <td width="40">✈️</td>
       <td width="150"><strong>PULSE</strong></td>
-      <td width="100%">Polls Seats.aero for flight award availability, tracks changes, and sends email alerts when better results appear.</td>
+      <td width="100%">Runs as a Python program on an always-on machine to monitor flight award availability, track changes, and send alerts.</td>
       <td width="80"><a href="https://github.com/gitacoco/PULSE">Repo</a></td>
     </tr>
     <tr>
