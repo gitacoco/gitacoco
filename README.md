@@ -1,10 +1,4 @@
-Designer and builder based in San Jose. My work sits around UX design, AI-assisted tools, agentic systems, and information visualizations that turn messy questions into something people can use.
-
-Currently focusing:
-- Designing useful AI-native workflows
-- Building agentic design systems
-- Shipping web products from concept to working prototype
-- Exploring interaction, information design, and creative systems
+Designer and builder based in San Jose. My work sits around product design, information visualizations, AI-assisted workflows, and agentic systems that turn messy questions into something people can use.
 
 A few things I’ve built while vibe coding:
 
