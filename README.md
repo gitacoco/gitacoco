@@ -8,10 +8,22 @@ Currently focusing:
 
 A few things I’ve built while vibe coding:
 
-| Emoji | Tool name | What it does | Repo link |
-| --- | --- | --- | --- |
-| 📈 | Allocast | Static ETF dollar-cost-averaging backtest app. | [Repo](https://github.com/gitacoco/Allocast) |
-| 🫀 | PULSE | Interactive web project and design experiment. | [Repo](https://github.com/gitacoco/PULSE) |
+<table width="100%">
+  <tbody>
+    <tr>
+      <td width="40">📈</td>
+      <td width="150"><a href="https://github.com/gitacoco/Allocast"><strong>Allocast</strong></a></td>
+      <td width="100%">Backtests ETF dollar-cost-averaging strategies in a static local app.</td>
+      <td width="80"><a href="https://github.com/gitacoco/Allocast">GitHub</a></td>
+    </tr>
+    <tr>
+      <td width="40">✈️</td>
+      <td width="150"><a href="https://github.com/gitacoco/PULSE"><strong>PULSE</strong></a></td>
+      <td width="100%">Polls Seats.aero for flight award availability, tracks changes, and sends email alerts when better results appear.</td>
+      <td width="80"><a href="https://github.com/gitacoco/PULSE">GitHub</a></td>
+    </tr>
+  </tbody>
+</table>
 
 
 
