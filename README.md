@@ -1,8 +1,6 @@
 # Hi, I'm Zhibang Jiang
 
-Designer and builder based in San Jose.
-
-I care about ideas, experiences, and software that makes a difference. My work sits around interaction design, AI-assisted tools, creative technology, and practical systems that turn messy questions into something people can use.
+Designer and builder based in San Jose. My work sits around interaction design, AI-assisted tools, creative technology, and practical systems that turn messy questions into something people can use.
 
 ## What I'm working on
 
