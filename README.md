@@ -33,7 +33,7 @@ A few things I’ve built while vibe coding:
     <tr>
       <td width="40">🧾</td>
       <td width="150"><a href="https://invoicer-ruby.vercel.app/"><strong>Invoicer</strong></a></td>
-      <td width="100%">Helps hourly-rate professionals and freelancers create invoices with client profiles, live preview, PDF export, Toggl import, and AI-assisted line-item rewriting.</td>
+      <td width="100%">Helps hourly-rate professionals and freelancers create invoices with client profiles, live preview, PDF export, and Toggl import.</td>
       <td width="80"><a href="https://github.com/gitacoco/invoicer">Repo</a></td>
     </tr>
   </tbody>
