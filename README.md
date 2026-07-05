@@ -21,7 +21,7 @@ A few things I’ve built while vibe coding:
     <tr>
       <td width="40">📈</td>
       <td width="150"><a href="https://allocast.vercel.app/"><strong>Allocast</strong></a></td>
-      <td width="100%">Backtests ETF dollar-cost-averaging strategies in a static local app.</td>
+      <td width="100%">Visualizes ETF dollar-cost-averaging backtests in a Next.js dashboard with rolling windows and interactive strategy controls.</td>
       <td width="80"><a href="https://github.com/gitacoco/Allocast">Repo</a></td>
     </tr>
     <tr>
