@@ -15,7 +15,7 @@ A few things I’ve built while vibe coding:
     <tr>
       <td width="40">📓</td>
       <td width="150"><strong>Lifelog</strong> <code>Private</code></td>
-      <td width="100%">Tracks monthly releases, daily and weekly logs, goals, metrics, notes, and pomodoro sessions in an isolated workspace.</td>
+      <td width="100%">Helps neurodivergent makers maintain motivation by turning wishlist-style goals into future changelogs written in advance, delivery commitments, and Pomodoro-based mindful sessions.</td>
       <td width="80"><a href="https://github.com/gitacoco/Lifelog">Repo</a></td>
     </tr>
     <tr>
