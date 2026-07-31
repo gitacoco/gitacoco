@@ -19,6 +19,12 @@ A few things I’ve built while vibe coding:
       <td width="80"><a href="https://github.com/gitacoco/Lifelog">Repo</a></td>
     </tr>
     <tr>
+      <td width="40">⏱️</td>
+      <td width="150"><strong>Momenta</strong></td>
+      <td width="100%">Helps hourly freelancers using Toggl Track see whether they’re on pace toward monthly hour or revenue goals from the macOS menu bar.</td>
+      <td width="80"><a href="https://github.com/gitacoco/Momenta">Repo</a></td>
+    </tr>
+    <tr>
       <td width="40">📈</td>
       <td width="150"><a href="https://allocast.vercel.app/"><strong>Allocast</strong></a></td>
       <td width="100%">Helps long-term investors compare ETF dollar-cost-averaging strategies across start dates, contribution amounts, and market windows.</td>
