@@ -15,7 +15,7 @@ A few things I’ve built while vibe coding:
   <tbody>
     <tr>
       <td width="40">📓</td>
-      <td width="150"><strong>Lifelog</strong> <code>Private</code></td>
+      <td width="150"><strong>Lifelog</strong></td>
       <td width="100%">Helps neurodivergent makers maintain motivation by turning traditional wishlist-style goals into future changelogs written in advance.</td>
       <td width="130">Node.js, SQLite</td>
       <td width="80"><a href="https://github.com/gitacoco/Lifelog">Repo</a></td>
