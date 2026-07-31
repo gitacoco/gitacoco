@@ -8,6 +8,7 @@ A few things I’ve built while vibe coding:
       <th width="40"></th>
       <th width="150"></th>
       <th width="100%">What it does</th>
+      <th width="130">Stack</th>
       <th width="80"></th>
     </tr>
   </thead>
@@ -16,30 +17,35 @@ A few things I’ve built while vibe coding:
       <td width="40">📓</td>
       <td width="150"><strong>Lifelog</strong> <code>Private</code></td>
       <td width="100%">Helps neurodivergent makers maintain motivation by turning traditional wishlist-style goals into future changelogs written in advance.</td>
+      <td width="130">Node.js, SQLite</td>
       <td width="80"><a href="https://github.com/gitacoco/Lifelog">Repo</a></td>
     </tr>
     <tr>
       <td width="40">⏱️</td>
       <td width="150"><strong>Momenta</strong></td>
       <td width="100%">Helps hourly freelancers using Toggl Track see whether they’re on pace toward monthly hour or revenue goals from the macOS menu bar.</td>
+      <td width="130">SwiftUI, Swift</td>
       <td width="80"><a href="https://github.com/gitacoco/Momenta">Repo</a></td>
     </tr>
     <tr>
       <td width="40">📈</td>
       <td width="150"><a href="https://allocast.vercel.app/"><strong>Allocast</strong></a></td>
       <td width="100%">Helps long-term investors compare ETF dollar-cost-averaging strategies across start dates, contribution amounts, and market windows.</td>
+      <td width="130">Next.js, Python</td>
       <td width="80"><a href="https://github.com/gitacoco/Allocast">Repo</a></td>
     </tr>
     <tr>
       <td width="40">✈️</td>
       <td width="150"><strong>PULSE</strong></td>
       <td width="100%">Runs as a Python program on an always-on machine to monitor flight award availability, track changes, and send alerts.</td>
+      <td width="130">Python</td>
       <td width="80"><a href="https://github.com/gitacoco/PULSE">Repo</a></td>
     </tr>
     <tr>
       <td width="40">🧾</td>
       <td width="150"><a href="https://invoicer-ruby.vercel.app/"><strong>Invoicer</strong></a></td>
       <td width="100%">Helps hourly-rate professionals and freelancers create invoices with client profiles, live preview, PDF export, and Toggl import.</td>
+      <td width="130">TypeScript, React</td>
       <td width="80"><a href="https://github.com/gitacoco/invoicer">Repo</a></td>
     </tr>
   </tbody>
