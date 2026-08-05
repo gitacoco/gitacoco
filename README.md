@@ -1,6 +1,6 @@
 Designer and builder based in San Jose. My work sits around product design, information visualizations, AI-assisted workflows, and agentic systems that turn messy questions into something people can use.
 
-A few things I’ve built while vibe coding:
+Small tools built for real problems in my own life, and shared with anyone who finds them useful.
 
 <table width="100%">
   <thead>
