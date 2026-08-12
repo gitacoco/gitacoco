@@ -15,10 +15,10 @@ Small tools built for real problems in my own life, and shared with anyone who f
   <tbody>
     <tr>
       <td width="40">📓</td>
-      <td width="150"><strong>Lifelog</strong></td>
+      <td width="150"><strong>Daylines</strong></td>
       <td width="100%">Helps neurodivergent makers maintain motivation by turning traditional wishlist-style goals into future changelogs written in advance.</td>
       <td width="130">Node.js, SQLite</td>
-      <td width="80"><a href="https://github.com/gitacoco/Lifelog">Repo</a></td>
+      <td width="80"><a href="https://github.com/gitacoco/Daylines">Repo</a></td>
     </tr>
     <tr>
       <td width="40">⏱️</td>
